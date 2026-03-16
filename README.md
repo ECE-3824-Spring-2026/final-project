@@ -1,4 +1,4 @@
-# Capstone Project: Sensor to Web
+# Final Project: Sensor to Web
 
 ## The Big Picture
 
